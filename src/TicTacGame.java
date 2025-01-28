@@ -6,6 +6,6 @@ public class TicTacGame {
         System.out.println("Добро пожаловать");
         System.out.println("Игра крестики-нолики");
         System.out.println("Введите 1, чтобы начать игру");
-        myClassInstance.TicTac();
+        myClassInstance.TicTac(5, 5);
     }
 }
